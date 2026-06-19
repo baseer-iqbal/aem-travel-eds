@@ -1,4 +1,5 @@
 mountpoints:
   /:
-    url: https://drive.google.com/drive/folders/1ulxQosrXBIIT-_hAgYcu7IqpsQlYFr7J
-    type: google
+    url: "https://author-p8452-e1321974.adobeaemcloud.com//bin/franklin.delivery/baseer-iqbal/aem-travel-eds/main"
+    type: "markup"
+    suffix: ".html"
